@@ -178,10 +178,12 @@ brats2020-kaggle/
 tumor_slices/
 
 #venv/
-var-mri/
+.var-mri/
 
 VAR/__pycache__
 VAR/local_output/
 VAR/tumor_flair/
+VAR/tumor_flair/train/*
+VAR/tumor_flair/val/*
 brats2020-kaggle/.DS_Store
 brats2020-kaggle/.DS_Store
